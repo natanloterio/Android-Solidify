@@ -36,5 +36,7 @@ viewBinding.spinner.onItemSelected = { parent, _, position, _ ->
 
 ## How to install it
 The library is available in Maven Central. You can add it to your project by adding the following dependency to your build.gradle file:
-```groovy
+```kotlin
+// Waiting for the library to be published in Maven Central
+
 ```
