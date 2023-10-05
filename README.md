@@ -33,6 +33,7 @@ The library offers a modern way to implement the callback using a lambda.
         // With Solidify, you can just implement the callbacks you need
     }
 ```
+
 ## How to install it
 The library is available in Maven Central. You can add it to your project by adding the following dependency to your build.gradle file:
 ```groovy
